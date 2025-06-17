@@ -43,7 +43,7 @@ Modes Overview
 
   Mode 3: Circle of Fifths Mode
     
-  Layout: 7 columns (one for each diatonic chord in a key) 4 rows (for different keys in the circle of fifths).
+    Layout: 7 columns (one for each diatonic chord in a key) 4 rows (for different keys in the circle of fifths).
 
      * Chord Progressions:
      
