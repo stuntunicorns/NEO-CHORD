@@ -43,10 +43,9 @@ Modes Overview
 
   Mode 3: Circle of Fifths Mode
     
-   * Layout: 7 columns (one for each diatonic chord in a key).
-       4 rows (for different keys in the circle of fifths).
+  Layout: 7 columns (one for each diatonic chord in a key) 4 rows (for different keys in the circle of fifths).
 
-   * Chord Progressions:
+     * Chord Progressions:
      
           Columns: Represent chords in a key (I, IV, V, ii, iii, vi, vii°).
   
@@ -62,11 +61,11 @@ Modes Overview
 
         ...
 
-          Rows: Cycle through keys (C → G → D → A, etc.).
+       * Rows: Cycle through keys (C → G → D → A, etc.).
     
-          Toggle between key groups (C/G/D/A, E/B/F#/C#, etc.) with the Chord Cycle button.
+       * Toggle between key groups (C/G/D/A, E/B/F#/C#, etc.) with the Chord Cycle button.
     
-      * Copy/Paste: Press Save to copy a row of chords to Favorites Mode.
+       * Copy/Paste: Press Save to copy a row of chords to Favorites Mode.
 
 
 
@@ -93,13 +92,13 @@ Utility Buttons
  
     Button 0 (Mode Toggle): Cycles through modes (Global → Favorites → Circle of Fifths).
     
-    Button 8 (Save/Clear):
+   Button 8 (Save/Clear):
     
     In Global/Circle Mode: Enters save mode.
     
     In Favorites Mode: Toggles delete mode (hold to clear all).
 
-    Button 16 (Shift):
+   Button 16 (Octave Shift):
     
     In Global Mode: Cycles octave ranges.
     
@@ -107,7 +106,7 @@ Utility Buttons
     
     In Circle Mode: Changes octave.
     
-    Button 24 (Chord Cycle):
+   Button 24 (Chord Cycle):
     
     In Global Mode: Cycles all rows to the next chord type.
     
