@@ -4,8 +4,9 @@ Modes Overview
  
    Mode 1: Global Chords Mode (Chromatic Grid)
    
-    * Chord Layout: 4 rows × 6 columns. 1st and Last columns are utility .
-    * Each row's chord type can be changed (e.g., Major, Minor, 7th) using utility buttons 
+    * Chord Layout: 4 rows × 6 columns. 1st and Last columns are utility.
+    
+    * Each row's chord type can be changed (e.g., Major, Minor, 7th) using utility buttons
     
     Example: Major Chords Grid
     
@@ -16,13 +17,17 @@ Modes Overview
     Row 4   F#      G       G#      A       A#      B    Octave 4
     
     * Columns represent semitone steps (chromatic scale).
+    
     * Chord Selection: Change Chord Grid using button 24
+    
     * Rows: Each row chord type can be changed independent of other rows in the grid (configurable via "row type" buttons on the right).
+    
     * Octave Shifting: Toggle between octave ranges (1-2, 3-4, 5-6) using the button 16.
 
   Mode 2: Favorites Mode
   
          * Layout: 4 rows × 7 columns (28 slots total) to save/recall custom chords.
+         
          * Saved chords are highlighted in their chord-type color.
  
     Features:
@@ -123,7 +128,7 @@ Strumming:
 Summary
 Global Chord Mode: Chromatic grid with configurable chord types per row.
 
-Favorites Mode: Save/recall custom chords with strumming and octave shift.
+Favorites Mode: Save/recall chords with strumming and octave shift.
 
 Circle of Fifths Mode: Diatonic chord progressions in multiple keys.
 
