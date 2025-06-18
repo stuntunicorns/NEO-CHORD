@@ -1,7 +1,5 @@
 The NEO-CHORD is a USB-MIDI controller that plays full chords at the push of a button.  Written for the Adafruit NeoTrellisM4. 
 
-The NEO-CHORD has 3 modes.
-
 Modes Overview
  
    Mode 1: Global Chords Mode (Chromatic Grid)
