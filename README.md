@@ -59,7 +59,7 @@ Modes Overview
 
        * Rows: Cycle through keys (C → G → D → A, etc.).
     
-       * Toggle between key group grids (C/G/D/A, E/B/F#/Db, and Ab, Eb, Bb,F.) with the Chord Cycle button (button 24).
+       * Toggle between key group grids (C/G/D/A, E/B/F#/Db, and Ab/Eb/Bb/F) with the Chord Cycle button (button 24).
     
        * Copy/Paste: Press Save to copy a row of chords to Favorites Mode (button 8).
 
@@ -71,19 +71,20 @@ Available Chord Types
         
         The code supports 12 chord types, each with a distinct color:
         
-        Chord Type	Notes (Semitone Offsets)	Color
-        Major	0, 4, 7	Green
-        Minor	0, 3, 7	Blue
-        Diminished	0, 3, 6	Red
-        Augmented	0, 4, 8	Yellow
-        SUS4	0, 5, 7	Purple
-        ADD9	0, 4, 7, 14	Pink
-        7th	0, 4, 7, 10	Magenta
-        MAJ7	0, 4, 7, 11	Teal
-        MIN7	0, 3, 7, 10	Lavender
-        NINTH	0, 4, 7, 10, 14	Cyan
-        MAJ9	0, 4, 7, 11, 14	Maroon
-        MIN9	0, 3, 7, 10, 14	Lime
+        Chord Type	               Notes (Semitone Offsets)            	Color
+        
+        Major	                            0, 4, 7      	               Green
+        Minor	                            0, 3, 7      	               Blue
+        Diminished	                       0, 3, 6	                     Red
+        Augmented	                        0, 4, 8	                     Yellow
+        SUS4	                             0, 5, 7	                     Purple
+        ADD9	                             0, 4, 7, 14	                 Pink
+        7th	                              0, 4, 7, 10	                 Magenta
+        MAJ7	                             0, 4, 7, 11	                 Teal
+        MIN7	                             0, 3, 7, 10	                 Lavender
+        NINTH	                        0, 4, 7, 10, 14	                 Cyan
+        MAJ9	                         0, 4, 7, 11, 14	                 Maroon
+        MIN9	                         0, 3, 7, 10, 14	                 Lime
 
 
 Utility Buttons
@@ -100,7 +101,7 @@ Utility Buttons
     
     In Global Mode: Cycles octave ranges.
     
-    In Favorites Mode: Toggles octave shift for saved chords.
+    In Favorites Mode: Toggles octave shift for saved chords. Toggles strum direction (up/down) after entering strum mode (button 24) 
     
     In Circle Mode: Changes octave.
     
@@ -108,12 +109,12 @@ Utility Buttons
     
     In Global Mode: Cycles all rows to the next chord type.
     
-    In Favorites Mode: Toggles strum direction (up/down).
+    In Favorites Mode: Toggles strum mode on/off.
     
-    In Circle Mode: Cycles key groups (C/G/D/A → E/B/F#/C# → F/Bb/Eb/Ab).
+    In Circle Mode: Cycles key groups (C/G/D/A → E/B/F#/Db → Ab/Eb/Bb/F). 
 
 Special Features
-Strumming:
+Strumming, Pitch Bend and Modulation:
 
     Plays chord notes sequentially (up or down) with adjustable delay (STRUM_DELAY).
     
@@ -126,11 +127,11 @@ Strumming:
     Sends notes over USB/UART MIDI on channel 0.
 
 Summary
-Global Chord Mode: Chromatic grid with configurable chord types per row.
+Global Chord Mode: Chromatic grid with configurable chord types. By grid or row.
 
-Favorites Mode: Save/recall chords with strumming and octave shift.
+Favorites Mode: Save and play chords with strumming and octave shift.
 
-Circle of Fifths Mode: Diatonic chord progressions in multiple keys.
+Circle of Fifths Mode: Diatonic chord progressions in 12 keys.
 
 12 Chord Types: From basic triads to extended jazz chords, each with unique colors.
 
