@@ -73,18 +73,18 @@ Available Chord Types
         
         Chord Type	               Notes (Semitone Offsets)            	Color
         
-        Major	                            0, 4, 7      	               Green
-        Minor	                            0, 3, 7      	               Blue
-        Diminished	                       0, 3, 6	                     Red
-        Augmented	                        0, 4, 8	                     Yellow
-        SUS4	                             0, 5, 7	                     Peach
-        ADD9	                             0, 4, 7, 14	                 Pink
-        7th	                              0, 4, 7, 10	                 Orange
-        MAJ7	                             0, 4, 7, 11	                 Lime
-        MIN7	                             0, 3, 7, 10	                 Teal
-        NINTH	                            0, 4, 7, 10, 14	             Purple
-        MAJ9	                             0, 4, 7, 11, 14	             Light Blue
-        MIN9	                             0, 3, 7, 10, 14	             Lavender
+        Major                             0, 4, 7                      Green
+        Minor                             0, 3, 7                      Blue
+        Diminished                        0, 3, 6                      Red
+        Augmented                         0, 4, 8                      Yellow
+        SUS4                              0, 5, 7                      Peach
+        ADD9                              0, 4, 7, 14                  Pink
+        7th                               0, 4, 7, 10                  Orange
+        MAJ7                              0, 4, 7, 11                  Lime
+        MIN7                              0, 3, 7, 10                  Teal
+        NINTH                             0, 4, 7, 10, 14              Purple
+        MAJ9                              0, 4, 7, 11, 14              Light Blue
+        MIN9                              0, 3, 7, 10, 14              Lavender
 
 
 Utility Buttons
